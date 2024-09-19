@@ -1,11 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "L285N96N8H.com.turkcell.paycellcorp",
-      "paths": ["*"]
-    }
-    ]
-  }
-}
+    "applinks": {
+      "apps": [],
+      "details": [
+          {
+             "appID": "V4SX8Z4247.com.turkcell.paycellcorp",
+             "paths": [ "*" ]
+          }
+      ]
+   }
+ }
