@@ -1,0 +1,4 @@
+[[headers]]
+  for = ".well-known/apple-app-site-association"  # Dosyanızın yolu, örneğin "/index.html" veya "/assets/image.png"
+  [headers.values]
+    Content-Type = "application/json"  # İstediğiniz content-type değeri
